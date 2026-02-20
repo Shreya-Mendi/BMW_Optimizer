@@ -1,0 +1,1536 @@
+code,isaccessory,isindividual,isline,ismetallic,ispackage,ispaint,isstandard,istop,istrim,isuni,isupholstery,iswheel,name,optionattribute,optionpackagecodekey,optiontype,price,vehicleref,vehicle_id,ismarketing,wholesaleprice
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63978395,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63978348,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63978156,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63978108,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63975400,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63975342,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63975341,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63975208,True,1395
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63975203,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63975199,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63975196,True,0
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63975186,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63975181,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63975179,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63972631,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63972630,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63972629,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63972626,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63972625,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63972548,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63972546,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63972544,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63972541,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63972540,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63971678,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63971677,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63971588,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63971587,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63970929,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63970928,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63970927,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63970785,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63970275,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,650,,63970208,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63970207,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63970205,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63970203,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63970202,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63970201,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63970200,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63970198,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63970153,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63970151,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63970150,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63968827,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63968788,True,1395
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63967480,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63967479,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63967475,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63967470,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63967460,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63967457,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63967455,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63967334,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63967332,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63967330,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63967328,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63967326,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63967325,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63966504,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63966503,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63966502,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63966329,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63965861,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63965487,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63965485,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63965484,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63965482,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63964598,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63964315,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63962612,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63962611,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63962609,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63962606,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63962603,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63962602,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63962553,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63962552,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63961657,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63961654,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63961491,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63961490,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63961488,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63960096,True,1395
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63959999,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63959998,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63959922,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63959921,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63957265,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63957264,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63957263,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63957260,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63957257,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63957228,True,0
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63957227,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63957225,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63957224,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63957221,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63957219,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63957216,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63957176,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63956173,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63956172,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63956163,True,1395
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63956162,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63948201,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63948159,True,1395
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63948099,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63948088,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63948081,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63948071,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63948058,True,1395
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63948057,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63945157,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63944849,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63944728,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63944720,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63944592,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,3,S0337,C,650,,63944583,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63944548,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63944392,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63944247,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63944155,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63944111,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63944074,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63944073,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63943994,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63943981,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63943907,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63943831,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63943776,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63943769,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63943739,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63943640,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63943463,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63943053,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63942759,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63942750,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63942747,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63942311,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63942296,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63941835,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63941343,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63940155,True,0
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63938085,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63938084,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63938082,True,1395
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63937593,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63937113,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63937112,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63937083,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63937082,True,1395
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63937081,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63937079,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63937071,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63934082,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,3,S0337,C,650,,63934046,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63934043,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63934029,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63934028,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63932644,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63932332,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63929370,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63929348,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63929345,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63929340,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63929330,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63929326,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63925832,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63925830,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63925828,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63925827,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63925826,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63925823,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63924420,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63919500,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63916339,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63916331,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63916144,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63916051,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63915906,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63915882,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63915787,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63915330,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63915235,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63915220,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63915183,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63915074,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63914981,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914965,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63914957,True,1395
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63914927,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63914894,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63914890,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63914886,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914867,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914864,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914823,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63914790,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63914778,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914753,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63914674,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63914658,True,1395
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914639,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63914585,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63914579,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63914192,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63914181,True,1395
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63914158,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914148,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63914141,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63914127,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63914069,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63914047,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63914020,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63913951,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63913949,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63913941,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63913935,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63913922,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63913904,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63913897,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63913813,True,1395
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63913784,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63910929,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63910869,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63910354,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63909880,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,650,,63909262,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63902872,True,1395
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63900035,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63899812,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63899667,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63899665,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63899659,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63899658,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63899657,True,1395
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63899648,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63899543,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63899480,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63899478,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63899474,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63899473,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63899471,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63899463,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63898779,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63898778,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63898776,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63898691,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63898690,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63898689,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63898524,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63898523,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63898522,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63898095,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63898087,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63897804,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63897797,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63897788,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63896755,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63896439,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63896436,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63896435,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63896432,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63896420,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63895719,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63895718,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63895716,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63895714,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63895472,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63895471,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63893943,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63893942,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63893941,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63893936,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63893809,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63893537,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63893535,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63893061,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63892700,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63892598,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63892596,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63892590,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63892220,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63892204,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63891717,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63891715,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63891713,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63891710,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63891708,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63891705,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63891703,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63891162,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63891160,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63891158,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63891152,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63891150,True,1395
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63891148,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63891146,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63890512,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63890503,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63890502,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63890314,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63889477,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63889475,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63889205,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63889204,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63889202,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63889201,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63888981,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63888979,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63888975,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63888972,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63888971,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63888970,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63886590,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63881317,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63880593,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63880580,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,3,S0337,C,650,,63880570,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63880561,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63880553,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63880528,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63880520,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63880509,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63880479,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63880406,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63880361,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63880339,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63880326,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63880267,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63880104,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63880077,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63879964,True,1395
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63879877,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63879706,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63879570,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63879453,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63879297,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63879012,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63878994,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63878914,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63878458,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63878330,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63877754,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63877166,True,1395
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63877100,True,1395
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63877066,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63876995,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63876608,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63876592,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63876493,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63876482,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63875726,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63874579,True,0
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63874479,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63874162,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63874147,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63874128,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63874096,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63874002,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63873251,True,1395
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63873138,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63872912,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63872082,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63869457,True,605
+P0C5A,False,True,False,True,False,True,False,False,False,False,False,False,Frozen Pure Grey Metallic,0,,C,3600,,63868003,True,3350
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63866341,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63861950,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63861948,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63861944,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63861942,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63861937,True,1395
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63861935,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63861932,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63861924,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63861921,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63861916,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63861915,True,1395
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63861912,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63861905,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63860059,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63860047,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63860001,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63859997,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63858012,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63858009,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63858008,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63858005,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63857562,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63857560,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63857558,True,1395
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,3,S0337,C,650,,63857554,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63856333,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63855952,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63855950,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63855933,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63855922,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63855917,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63855907,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63855906,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63855905,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63855904,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63855901,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63852436,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63852428,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63852333,True,0
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63852327,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63852217,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63852192,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63852114,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63852103,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63851835,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63851762,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63851483,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63851344,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63851294,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63851073,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63851054,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63850982,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63850795,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63850074,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63849160,True,1395
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63848801,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63848681,True,1395
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63847984,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63847959,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63847929,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63847897,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63845451,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63844897,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63844703,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63843017,True,0
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63842876,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63842836,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63841187,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63835393,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63826208,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63822854,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63811173,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63811171,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63811161,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63811158,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63811153,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63811149,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63811131,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63810707,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63810684,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63810565,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63810563,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63810559,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63810556,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63810428,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63810422,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63806448,True,0
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,3,S0337,C,650,,63806435,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63806069,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63806041,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63805445,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63805429,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63804977,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63804948,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63804742,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63803811,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63801466,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63800230,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63795252,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63794984,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63794884,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63794847,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63794216,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63793758,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63793503,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63792374,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63792325,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63791819,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63786176,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,650,,63784449,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63781747,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63776441,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63776439,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63775177,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63774274,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63774115,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63774014,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63772576,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63772430,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63772329,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63771045,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63758931,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63758924,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63758770,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63758761,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63758760,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63758343,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63757437,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63757422,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63757206,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63756759,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63756603,True,1395
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63756510,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63756466,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63756455,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63756232,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63756088,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63755985,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63755976,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63755837,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,3,S0337,C,650,,63754262,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63754140,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63754103,True,0
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63754080,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63748862,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63748541,True,0
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63743117,True,605
+P0C64,False,True,False,True,False,True,False,False,False,False,False,False,Frozen Deep Grey,0,,C,3600,,63738768,True,3350
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63737532,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63737508,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63737507,True,0
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,3,S0337,C,650,,63737505,True,605
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63737504,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63737503,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63737502,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63737256,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63737253,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63737252,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63736287,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,3,S0337,C,650,,63729839,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63729679,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63729654,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63729271,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63728564,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63727405,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63727160,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63726877,True,1395
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63723249,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63722694,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63720895,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63717321,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1500,,63716440,True,1395
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63713851,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63713781,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63713338,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63708822,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,3,S0337,C,650,,63707599,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63707523,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63707310,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63701147,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63699451,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63699425,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63697049,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63696527,True,605
+P0A90,False,False,False,True,False,True,False,False,False,False,False,False,Dark Graphite Metallic,0,,C,650,,63695949,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,650,,63676647,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63674833,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63656718,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63648121,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63544773,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63514878,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63514114,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63512715,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey metallic,0,,C,650,,63422575,True,605
+P0C3Z,False,False,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63422521,True,1395
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey metallic,0,,C,650,,63422326,True,605
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,0,,C,650,,63411230,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,,,C,0,,63410144,True,0
+P0C7A,False,False,False,True,False,True,False,False,False,False,False,False,Dune Grey Metallic,3,S0337,C,650,,63409496,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63409376,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63409160,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63407303,True,605
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63400061,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey metallic,0,,C,650,,63399650,True,605
+P0C3Z,False,False,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63399634,True,1395
+P0C68,False,False,False,True,False,True,False,False,False,False,False,False,Vegas Red Metallic,0,,C,650,,63399459,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey metallic,3,S0337,C,650,,63398424,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63398046,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey metallic,0,,C,650,,63397994,True,605
+P0C3Z,False,False,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1500,,63397939,True,1395
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63397693,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63397355,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63397013,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63383375,True,0
+P0C4F,False,False,False,True,False,True,False,False,False,False,False,False,Arctic Race Blue metallic,0,,C,650,,63374451,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey metallic,0,,C,650,,63208515,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63978504,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63978489,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63978474,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63978439,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63978247,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63977983,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63977943,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63977915,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63975402,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63975401,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63975345,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63975344,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63975343,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63975222,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63975221,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63975220,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63975218,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63975215,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63975212,True,1815
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63975210,True,0
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63975190,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63975189,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63975188,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63975187,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63973870,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63973754,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63973753,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63972723,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63972684,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63972682,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63972679,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63972637,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63972636,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63972635,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63972634,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63972568,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63972566,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63972563,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63972558,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63972556,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63972555,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63972552,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63972550,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63972549,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63971683,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63971682,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63971681,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63971680,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63971679,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63971593,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63971592,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63971591,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63971590,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63971589,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63971163,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63970932,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63970931,True,605
+P0C5A,False,True,False,True,False,True,False,False,False,False,False,False,Frozen Pure Grey Metallic,0,,C,3600,,63970623,True,3350
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63970445,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63970443,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63970276,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63970220,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63970219,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63970217,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63970216,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63970215,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63970214,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63970212,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63970210,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63970162,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63970160,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63970158,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63970156,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63970155,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63968786,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63968673,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63967712,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63967592,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63967588,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63967587,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63967492,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63967491,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63967490,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63967489,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63967488,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63967487,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63967484,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63967482,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63967343,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63967341,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63967339,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63967337,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63967336,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63966512,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63966511,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63966510,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63966509,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63966508,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63966507,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63966506,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63966505,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63966332,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63966331,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63965950,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63965864,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63965858,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63965503,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63965501,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63965498,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63965495,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63965493,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63965491,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63965490,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63965489,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63965478,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63965188,True,1815
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63965184,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63965182,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63965180,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63965178,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,0,,63964655,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63964600,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63962610,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63962608,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63962607,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63962558,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63962557,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63962556,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63962555,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63962554,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63961659,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63961577,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63961501,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63961499,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63961498,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63961497,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63961496,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63961495,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63961493,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63960645,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63960644,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63960576,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63960424,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63960161,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63960159,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63960157,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63960156,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63960155,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63960152,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63960099,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63960098,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63960097,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63960011,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63960010,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63960009,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63960008,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63960007,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63960006,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63960005,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63960004,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63960003,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63960002,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63960001,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63960000,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63959937,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63959936,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63959935,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63959934,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63959933,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63959932,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63959931,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63959930,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63959929,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63959928,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63959927,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63959926,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63959925,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63959924,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63959923,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63958604,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,0,,63957474,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63957473,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63957276,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63957275,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63957274,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63957273,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63957272,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63957271,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63957270,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63957269,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63957268,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63957267,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63957266,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63957181,True,1815
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63957180,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63957179,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63957178,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63957177,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63956174,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63956170,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63956168,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63956167,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63956165,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63948985,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63948933,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63948923,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63948901,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63948885,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63948867,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63948854,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63948713,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63948638,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63948591,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63948518,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63948320,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63948310,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63948287,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63947971,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63947924,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63947778,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63947758,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63947738,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63947687,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63947496,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63947456,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63947289,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63947157,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63947009,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63946976,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63946753,True,1815
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63946733,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63946515,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63946431,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63946391,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63946374,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63946361,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63946339,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63946310,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63945847,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63945594,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63945467,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63945204,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63944968,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63944940,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63944733,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63944671,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63944437,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63944344,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63944311,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63944178,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63944153,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,0,,63944037,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63944029,True,0
+P0C1K,False,False,False,True,False,True,False,False,False,False,False,False,Marina Bay Blue Metallic,0,,C,0,,63943979,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63943425,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63943217,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,0,,63943209,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63942842,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63942553,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63942288,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63942285,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63940922,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63939263,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63938906,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63938795,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63938355,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63938270,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63937105,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63937104,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63937103,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63937102,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63937101,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63937065,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63937064,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63937062,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63937060,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63935716,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63935714,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63935713,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63935712,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63935710,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63935708,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63935658,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63935656,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63935655,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63935653,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63935652,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63935651,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63935650,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63935649,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63935648,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63934555,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63934078,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63934077,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63934075,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63934073,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63934071,True,1815
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63934070,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63934068,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63934067,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63934066,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63934040,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63934038,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63934036,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63934007,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63934004,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63934002,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63934000,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63933999,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63933997,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63933996,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63933994,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63933993,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63933991,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63933990,True,0
+P0C1K,False,False,False,True,False,True,False,False,False,False,False,False,Marina Bay Blue Metallic,0,,C,0,,63933988,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63932740,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63932737,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63932732,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63932731,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63932730,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63932729,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63932728,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63932649,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63932645,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63932637,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63932636,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63932635,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63932634,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63932633,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63932632,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63932631,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63932380,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63932331,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63931775,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63931774,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63931773,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63931757,True,1815
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63931751,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63931750,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63931749,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63931677,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63931672,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63931671,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63931670,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63931657,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63931656,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63931655,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63931652,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63930337,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63930332,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63930310,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63930246,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63930245,True,1815
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63930244,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63930153,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63930149,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63930146,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63930144,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63930141,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63930134,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63930132,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63930129,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63930128,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63930125,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63930120,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63930116,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63930111,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63930105,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63930102,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63930097,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63930095,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63929408,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63929402,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63929396,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63929386,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63929380,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63929378,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63929357,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63929355,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63929351,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63929347,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63929301,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63929298,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63929290,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63929286,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,0,,63929285,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63929284,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63929281,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63929278,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63929274,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63929273,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63929272,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63929265,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63929264,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63929263,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63929260,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63929259,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63929258,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63929251,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63929250,True,1815
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63929248,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63927650,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63927624,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63927622,True,1815
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63927615,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63927611,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63927610,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63927553,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63927548,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63927538,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63927535,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63927532,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63927527,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63927525,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63927524,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63927522,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63926165,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63926100,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63925999,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63925808,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63925807,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63925806,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63925805,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63925804,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63925801,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63925798,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63925796,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63925795,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63925794,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63925793,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63925792,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63925791,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63925790,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63925789,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63925788,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63925787,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63925786,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63925785,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63925784,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63925783,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63925781,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63925777,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63924541,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63924526,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63924524,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63924522,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63924519,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63924516,True,1815
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63924513,True,0
+P0C1K,False,False,False,True,False,True,False,False,False,False,False,False,Marina Bay Blue Metallic,0,,C,0,,63924511,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63924422,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63924409,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63924402,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63924401,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63923041,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63919364,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63919360,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63916298,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63916283,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63916223,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63916108,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63915967,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63915961,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63915916,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63915739,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63915697,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63915686,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63915576,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63915477,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63915230,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63914727,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63914396,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63914373,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63914363,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63913799,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63912733,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63911988,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63911863,True,605
+P0312,False,True,False,True,False,True,False,False,False,False,False,False,British Racing Green,0,,C,5000,,63910694,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63910255,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63909792,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63907988,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63907549,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63907310,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63907215,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63907137,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63907054,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63905992,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63905926,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63904930,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63904498,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63904204,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63903986,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63903660,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63903222,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63902696,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63900036,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63899813,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63899809,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63899662,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63899661,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63899644,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63899641,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63899640,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63899639,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63899637,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63899456,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63898775,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63898058,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63898056,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63898053,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63898052,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63897757,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63897755,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63896751,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63896685,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63896684,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63896422,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63896414,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63896411,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63896410,True,1815
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63896409,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63896408,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63895712,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63894973,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63894969,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63894934,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63894933,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63893934,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63893933,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63893931,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63893930,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63893516,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63893512,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63892697,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63892695,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63892216,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63892190,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63892185,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63891942,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63891936,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63891707,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63891685,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63891683,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63891681,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63891679,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63891677,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63891675,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63891128,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63891125,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63891123,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63891117,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63891115,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63891113,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63890313,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63889777,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63889473,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63889195,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63889193,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63888961,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63888960,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63888959,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63888958,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63888025,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63887810,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63880662,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63880255,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63880187,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63880133,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63880034,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63879906,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63879888,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63879870,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63879621,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63879598,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63879511,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63879253,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63879208,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63879090,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63878833,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63878286,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63878205,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63877890,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63877816,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63877670,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63877246,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63876963,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63876930,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63876903,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63876759,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63876346,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63876295,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63876290,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63876258,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63875362,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63875057,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63874885,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63874844,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63874184,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63873082,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63873062,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63873004,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63872897,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63872871,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63872759,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63871449,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63871184,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63870755,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63870632,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63870525,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63870430,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63867066,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63865761,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63864341,True,605
+P0C4G,False,False,False,True,False,True,False,False,False,False,False,False,Isle of Man Green Metallic,0,,C,0,,63863339,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63862269,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63862234,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63861939,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63861927,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63861922,True,605
+P0P9R,False,True,False,False,False,True,False,False,False,False,False,False,Anglesey Green Metallic,3,S0337,C,5000,,63861913,False,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63861909,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63861907,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63861890,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63861884,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63861877,True,605
+P0430,False,True,False,False,False,True,False,False,False,False,False,False,Oxford Green II Metallic,3,S0337,C,5000,,63861876,False,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63861871,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63861869,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63861866,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63860686,True,1815
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63860369,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63860368,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63860300,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63860262,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63860049,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63860048,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63860046,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63860044,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63860043,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63860042,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63860040,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63859985,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63859984,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63859982,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63859981,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63859980,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63859972,True,1815
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63859964,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63858292,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63858003,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63857996,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63857993,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63857988,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63857556,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63857549,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63857548,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63857538,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63855939,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63855900,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63855889,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63855881,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63855880,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63855770,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63855763,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63852363,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63851994,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63851100,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63850130,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63850113,True,1815
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63850040,True,1815
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63850009,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63849988,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63849780,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63849687,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63849665,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63849627,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63849457,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63849383,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63849127,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63848476,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63848349,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63847498,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63847292,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63846658,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63845506,True,0
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63844934,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63842514,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63840417,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63839778,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63839751,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63839267,True,0
+P0490,False,False,False,False,False,True,False,False,False,True,False,False,Special Order Color,0,,C,99999,,63839002,True,99999
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63838875,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63838798,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63838455,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63838213,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63837819,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63837624,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63837267,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63836873,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63836217,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63831598,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63830460,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63829445,True,0
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63828950,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63828625,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,0,,63827434,True,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63826338,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63826335,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63826330,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63826321,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63826216,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63826214,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63824911,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63824643,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63824641,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63824638,True,605
+P0C1K,False,False,False,True,False,True,False,False,False,False,False,False,Marina Bay Blue Metallic,0,,C,0,,63824550,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63824542,True,1815
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63822959,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63822857,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63821295,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63821294,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63818944,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63817912,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63817900,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63811013,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63810994,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63810949,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63810865,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63810775,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63810750,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63810089,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63810033,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63810030,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63810017,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63809877,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63809784,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63809606,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63809386,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63809145,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63808942,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63808819,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63808670,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63808563,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63808492,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63808404,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63807828,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63807818,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63807673,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63807658,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63807264,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63807249,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63807246,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63807162,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63807002,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63806940,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63806921,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63806641,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63806478,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63806399,True,605
+P0430,False,True,False,False,False,True,False,False,False,False,False,False,Oxford Green II Metallic,3,S0337,C,5000,,63805983,False,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63805566,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63805538,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63805362,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63805357,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63805267,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63804755,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63803739,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63803647,True,1815
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63802197,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63801985,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63801145,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63800226,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63800210,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63799858,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63797823,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63796963,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63796872,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63796831,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63796827,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63796785,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63796670,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63796424,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63796294,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63796218,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63796129,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63796035,True,0
+P0C5A,False,True,False,True,False,True,False,False,False,False,False,False,Frozen Pure Grey Metallic,0,,C,3600,,63796034,True,3350
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63795370,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63795274,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63794963,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63794817,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63794704,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63794530,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63794286,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63794017,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63793870,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63792802,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63792524,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63791280,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63790680,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63790367,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63790307,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63790076,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63788677,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63785150,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63785133,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63784105,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63783932,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63782968,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63782249,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,0,,63782152,True,0
+P0379,False,True,False,False,False,True,False,False,False,False,False,False,Velvet Blue Metallic,0,,C,5000,,63781906,False,0
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63780897,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63779149,True,0
+P0312,False,True,False,True,False,True,False,False,False,False,False,False,British Racing Green,3,S0337,C,5000,,63775441,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63775440,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63775438,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63775183,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63775182,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63774282,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63774279,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63774277,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63774029,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63774027,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63774022,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63774020,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63774018,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63774017,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63773282,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63772866,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63772562,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63772445,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63771093,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63771055,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63771034,True,1815
+P0P93,False,True,False,False,False,True,False,False,False,False,False,False,Frozen Brilliant White Metallic,0,,C,5000,,63761152,False,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63757572,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63756690,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63756662,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63756409,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63756320,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63756187,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63756182,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,1950,,63756087,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63756034,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63755684,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63755306,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63754472,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63753153,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63752168,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,650,,63751297,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63750588,True,1815
+P0C5A,False,True,False,True,False,True,False,False,False,False,False,False,Frozen Pure Grey Metallic,3,S0337,C,3600,,63748502,True,3350
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63748389,True,0
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63748323,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63748214,True,1815
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63747900,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63747813,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63747797,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63747729,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63747617,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63747434,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63747083,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63747053,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63746917,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63746247,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63745516,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63745308,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63743565,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63740864,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63739966,True,0
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,0,,C,0,,63738450,True,0
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63737351,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63737335,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63737151,True,605
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63737074,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63736865,True,1815
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63736783,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63736760,True,605
+P0C3Z,False,True,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,0,,C,1950,,63735920,True,1815
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63735888,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,0,,C,0,,63730289,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63730165,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63729962,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63729774,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63726971,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63726583,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63724484,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63724441,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63720953,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63720532,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63719977,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63719500,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63707781,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63707780,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63707670,True,605
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63683640,True,1815
+P0C36,False,True,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63682578,True,1815
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63657221,True,605
+P0C36,False,False,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63653437,True,1815
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,S,,C,0,,63644744,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63641868,True,0
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63617090,True,605
+P0C5A,False,False,False,True,False,True,False,False,False,False,False,False,Frozen Pure Grey Metallic,0,,C,3600,,63609704,True,3350
+P0406,False,True,False,False,False,True,False,False,False,False,False,False,Orinoco Pearl Metallic,3,S0337,C,5000,,63602221,False,0
+P0490,False,False,False,False,False,True,False,False,False,False,False,False,Special Order Color,0,,C,5000,,63598633,True,4550
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63539690,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63539670,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,3,S0337,C,650,,63539432,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,0,,C,0,,63535445,True,0
+P0C35,False,False,False,True,False,True,False,False,False,False,False,False,Blue Ridge Mountain Metallic,0,,C,650,,63534273,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63528693,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,0,,C,0,,63527722,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63464109,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63452490,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63433912,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63433267,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63431942,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63426188,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63425654,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63422798,True,605
+P0C36,False,False,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63420990,True,1815
+P0C3Z,False,False,False,True,False,True,False,False,False,False,False,False,Tanzanite Blue II Metallic,3,S0337,C,1950,,63420888,True,1815
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63420626,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63419265,True,0
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63409914,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,3,S0337,C,650,,63409507,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63409429,True,605
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,650,,63409315,True,605
+P0416,False,False,False,True,False,True,False,False,False,False,False,False,Carbon Black Metallic,3,S0337,C,650,,63408882,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,650,,63408787,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63406956,True,0
+P0C36,False,False,False,True,False,True,False,False,False,False,False,False,Dravit Grey Metallic,3,S0337,C,1950,,63403055,True,1815
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63401589,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63400005,True,605
+P0C3D,False,False,False,True,False,True,False,False,False,False,False,False,Manhattan Green Metallic,3,S0337,C,650,,63394602,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,3,S0337,C,650,,63393309,True,605
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63382047,True,605
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63377158,True,0
+P0C4P,False,False,False,True,False,True,False,False,False,False,False,False,Brooklyn Grey Metallic,3,S0337,C,650,,63376107,True,605
+P0C4W,False,False,False,True,False,True,False,False,False,False,False,False,Skyscraper Grey Metallic,0,,C,650,,63352385,True,605
+P0475,False,False,False,True,False,True,False,False,False,False,False,False,Black Sapphire Metallic,0,,C,0,,63322814,True,0
+P0490,False,False,False,False,False,True,False,False,False,False,False,False,Special Order Color,0,,C,0,,63276272,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63275009,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,0,,C,0,,63271567,True,0
+P0300,False,False,False,False,False,True,False,False,False,True,False,False,Alpine White,2,S0337,C,0,,63261451,True,0
+P0A96,False,False,False,True,False,True,False,False,False,False,False,False,Mineral White Metallic,0,,C,0,,63253387,True,0
